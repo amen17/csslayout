@@ -209,6 +209,10 @@ h2{
       #imgs div {
         background-color: rgb(255, 255, 255);
         margin: 1em;
+        
+      }
+      #imgs div:hover{
+        box-shadow: 10px 5px 5px rgb(145, 145, 145);
       }
       
       button {
